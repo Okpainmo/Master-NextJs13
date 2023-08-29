@@ -1,4 +1,4 @@
-# Master-NextJs13
+# Master NextJs 13
 A tutorial project to help ease the adoption of NextJs 13 among developers.
 
 ## How To Learn With This Repository.
